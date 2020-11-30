@@ -1,4 +1,4 @@
-module api
+module github.com/adrian-morfi/grapql-go-api
 
 go 1.15
 

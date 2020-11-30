@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"api/database/storage"
-	"api/graphql/models"
+	"github.com/adrian-morfi/grapql-go-api/database/storage"
+	"github.com/adrian-morfi/grapql-go-api/graphql/models"
 )
 
 func GetPersons() ([]models.Persons, error) {

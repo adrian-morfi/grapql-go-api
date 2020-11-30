@@ -3,7 +3,7 @@ package storage
 import (
 	"log"
 
-	config "api/database/config"
+	config "github.com/adrian-morfi/grapql-go-api/database/config"
 
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/postgres"

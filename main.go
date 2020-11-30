@@ -1,8 +1,8 @@
 package main
 
 import (
-	"api/database/storage"
-	"api/graphql/controllers"
+	"github.com/adrian-morfi/grapql-go-api/database/storage"
+	"github.com/adrian-morfi/grapql-go-api/graphql/controllers"
 
 	"github.com/gin-gonic/gin"
 )

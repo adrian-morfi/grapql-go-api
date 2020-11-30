@@ -5,8 +5,9 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"api/models"
 	"net/http"
+
+	"github.com/adrian-morfi/grapql-go-api/models"
 
 	"github.com/gin-gonic/gin"
 	"github.com/graphql-go/graphql"
